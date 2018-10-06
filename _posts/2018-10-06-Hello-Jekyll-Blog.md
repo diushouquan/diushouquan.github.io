@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Hello 2018"
-subtitle:   "\"Hello World, Hello Jekyll Blog，Win 10下搭建 Jekyll 博客"\"
-date:       2018-10-06 17:00:00
+subtitle:   "Hello World, Hello Jekyll Blog，Win 10下搭建 Jekyll 博客"
+date:       2018-10-05 12:00:00
 author:     "丢手圈啊"
 header-img: "img/post-bg-hello-2018.jpg"
 catalog: true
