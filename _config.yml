@@ -14,9 +14,9 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     丢手圈啊LC
-zhihu_username:     NO
+#zhihu_username:     NO
 github_username:    diushouquan
-twitter_username:   NO
+#twitter_username:   NO
 #facebook_username:  NO
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -105,11 +105,11 @@ friends: [
     {
     #     title: "Su",
     #     href: "http://su.gallery/"
+    # # },{
+        # title: "乱序",
+        # href: "http://mida.re/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    }
+        # title: "前端外刊评论",
+        # href: "http://qianduan.guru/"
+    # }
 ]
